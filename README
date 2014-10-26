@@ -1,0 +1,4 @@
+ipv6-ready socket server examples.
+boilerplate for the next great american network daemon.
+
+single.c: single-threaded echo server. handles one client at a time
